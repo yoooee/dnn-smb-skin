@@ -1,0 +1,83 @@
+@charset "utf-8";
+
+
+.SMBNav
+{
+	font-family:'Permanent Marker', verdana;
+	color:#ffffff;
+	padding-left:30px;
+}
+
+
+/*--- Root Menu Items ---*/
+.SMBNav .root .txt
+{
+	font-size:20px;
+	padding:0px 10px;
+}
+
+.SMBNav .mi .txt
+{
+	font-size:18px;
+}
+
+
+
+/*--- All Sub Menu Containers ---*/
+.SMBNav .m
+{
+	width:160px;
+	margin-top:10px;
+	z-index:20; /*--- Keeps the drop down menus from loosing hover state ---*/
+	line-height:18px;
+}
+
+.SMBNav .m .mi .icn
+{
+	background-image:url(images/sub-nav-item-icon-bg.png);
+	background-repeat:repeat-y;
+	background-position:left;
+	padding:5px;
+}
+
+.SMBNav .m .mi .icn img
+{
+	margin-left:5px;
+}
+
+.SMBNav .m .last .icn
+{
+	background-image:url(images/sub-nav-bottom-icon-bg.png);
+	background-repeat:no-repeat;
+	background-position:left bottom;
+	padding:5px;
+}
+
+/*--- All Sub Menu Items ---*/
+.SMBNav .m .mi .txt
+{
+	display:block;
+	font-size:16px;
+	line-height:18px;
+	color:#ffffff;
+	background-image:url(images/sub-nav-item-bg.png);
+	background-repeat:repeat-y;
+	background-position:right center;
+	padding:6px 5px;
+}
+
+
+.SMBNav .m .last .txt
+{
+	background-image:url(images/sub-nav-item-last-bg.png);
+	background-repeat:no-repeat;
+	background-position:right bottom;
+	padding-bottom:20px;
+}
+
+
+/*--- All menu items hover state ---*/
+.SMBNav .hov .txt, .SMBNav .m .hov .txt
+{
+	color:#fc9838;
+}

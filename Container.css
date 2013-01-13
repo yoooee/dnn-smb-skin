@@ -1,0 +1,21 @@
+@charset "utf-8";
+@import url("/resources/shared/stylesheets/dnn-roundedcorners.css");
+
+/*Styles for ALL containers*/
+.C_Container
+{
+	clear:both;
+	margin-bottom:15px;
+}
+
+
+.C_ContentTools
+{
+	width:100%;
+	text-align:right;
+	clear:both;
+}
+
+
+
+

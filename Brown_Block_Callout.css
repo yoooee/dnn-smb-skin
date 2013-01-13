@@ -1,0 +1,79 @@
+
+
+/*--- MAIN CONTAINER ---*/
+.C_Brown_Block_Callout
+{
+
+}
+
+/*--- Header ---*/
+.C_Brown_Block_Callout .C_Header 
+{
+	
+}
+
+.C_Brown_Block_Callout .C_Header .TitleText
+{
+
+}
+
+.C_Brown_Block_Callout .C_Header .C_Header_Graphic {
+	
+}
+
+
+/*--- Content ---*/
+.C_Brown_Block_Callout .C_Content 
+{
+	color:#ffffff;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	line-height:18px;
+}
+
+.C_Brown_Block_Callout .C_Content a:link, .C_Brown_Block_Callout .C_Content a:active
+{
+	color:#fc9838;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+.C_Brown_Block_Callout .C_Content a:visited, .C_Brown_Block_Callout .C_Content a:hover
+{
+	color:#fc9838;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+
+/*--- Footer ---*/
+.C_Brown_Block_Callout .C_Footer 
+{
+	
+	
+}
+
+/*--- Flud Framework ---*/
+.C_Brown_Block_Callout .RoundedCorners { background-color:#c84c0c; }
+.C_Brown_Block_Callout .RoundedCorners .NW { background-image:url(ContainerImages/bbcNW-bg.png); }
+.C_Brown_Block_Callout .RoundedCorners .N { background-image:url(ContainerImages/bbcN-bg.png); }
+.C_Brown_Block_Callout .RoundedCorners .NE { background-image:url(ContainerImages/bbcNE-bg.png); padding:10px 30px 0px 30px;}
+.C_Brown_Block_Callout .RoundedCorners .W { background-image:url(ContainerImages/bbcW-bg.png); }
+.C_Brown_Block_Callout .RoundedCorners .E { background-image:url(ContainerImages/bbcE-bg.png); }
+.C_Brown_Block_Callout .RoundedCorners .SW { background-image:url(ContainerImages/bbcSW-bg.png); }
+.C_Brown_Block_Callout .RoundedCorners .S { background-image:url(ContainerImages/bbcS-bg.png); }
+.C_Brown_Block_Callout .RoundedCorners .SE { background-image:url(ContainerImages/bbcSE-bg.png); }
+
+/*--- Formatting ---*/
+.C_Brown_Block_Callout h2, .C_Brown_Block_Callout .TitleText
+{
+	font-family:'Permanent Marker', Verdana, Arial, Helvetica, sans-serif;
+	font-size:25px;
+	color:#fc9838;
+	margin:15px 0px;
+	line-height:30px;
+}
+
+
+
+

@@ -1,0 +1,87 @@
+
+/*--- MAIN CONTAINER ---*/
+.C_White_Background_Black_Title
+{
+
+}
+
+/*--- Header ---*/
+.C_White_Background_Black_Title .C_Header 
+{
+	
+}
+
+.C_White_Background_Black_Title .C_Header .TitleText
+{
+
+}
+
+.C_White_Background_Black_Title .C_Header .hDivide
+{
+	background-image:url(ContainerImages/hline-black-bg.png);
+	background-repeat: repeat-x;
+	height:8px;
+	border:none;
+}
+
+
+.C_White_Background_Black_Title .C_Header .C_Header_Graphic {
+	
+}
+
+
+/*--- Content ---*/
+.C_White_Background_Black_Title .C_Content 
+{
+	color:#333333;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	line-height:18px;
+}
+
+
+.C_White_Background_Black_Title .C_Content a:link, .C_White_Background_Black_Title .C_Content a:active
+{
+	color:#333333;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+.C_White_Background_Black_Title .C_Content a:visited, .C_White_Background_Black_Title .C_Content a:hover
+{
+	color:#333333;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+
+/*--- Footer ---*/
+.C_White_Background_Black_Title .C_Footer 
+{
+	
+	
+}
+
+/*--- Flud Framework ---*/
+.C_White_Background_Black_Title .RoundedCorners { background-color:#ffffff; }
+.C_White_Background_Black_Title .RoundedCorners .NW { background-image:url(ContainerImages/wbNW-bg.png); }
+.C_White_Background_Black_Title .RoundedCorners .N { background-image:url(ContainerImages/wbN-bg.png); }
+.C_White_Background_Black_Title .RoundedCorners .NE { background-image:url(ContainerImages/wbNE-bg.png); padding:10px 30px 0px 30px;}
+.C_White_Background_Black_Title .RoundedCorners .W { background-image:url(ContainerImages/wbW-bg.png); }
+.C_White_Background_Black_Title .RoundedCorners .E { background-image:url(ContainerImages/wbE-bg.png); }
+.C_White_Background_Black_Title .RoundedCorners .SW { background-image:url(ContainerImages/wbSW-bg.png); }
+.C_White_Background_Black_Title .RoundedCorners .S { background-image:url(ContainerImages/wbS-bg.png); }
+.C_White_Background_Black_Title .RoundedCorners .SE { background-image:url(ContainerImages/wbSE-bg.png); }
+
+/*--- Formatting ---*/
+.C_White_Background_Black_Title h2, .C_White_Background_Black_Title .TitleText
+{
+	font-family:'Permanent Marker', Verdana, Arial, Helvetica, sans-serif;
+	font-size:25px;
+	color:#333333;
+	margin:0px
+}
+
+
+
+
