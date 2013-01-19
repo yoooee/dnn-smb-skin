@@ -1,0 +1,84 @@
+
+/*--- MAIN CONTAINER ---*/
+.C_White_Background_Red_Title
+{
+
+}
+
+/*--- Header ---*/
+.C_White_Background_Red_Title .C_Header 
+{
+	
+}
+
+.C_White_Background_Red_Title .C_Header .TitleText
+{
+
+}
+
+.C_White_Background_Red_Title .C_Header .hDivide
+{
+	background-image:url(ContainerImages/hline-red-bg.png);
+	background-repeat: repeat-x;
+	height:8px;
+	border:none;
+}
+
+
+.C_White_Background_Red_Title .C_Header .C_Header_Graphic {
+	
+}
+
+
+/*--- Content ---*/
+.C_White_Background_Red_Title .C_Content 
+{
+	color:#333333;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	line-height:18px;
+}
+
+.C_White_Background_Red_Title .C_Content a:link, .C_White_Background_Red_Title .C_Content a:active
+{
+	color:#e50102;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+.C_White_Background_Red_Title .C_Content a:visited, .C_White_Background_Red_Title .C_Content a:hover
+{
+	color:#e50102;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+/*--- Footer ---*/
+.C_White_Background_Red_Title .C_Footer 
+{
+	
+	
+}
+
+/*--- Flud Framework ---*/
+.C_White_Background_Red_Title .RoundedCorners { background-color:#ffffff; }
+.C_White_Background_Red_Title .RoundedCorners .NW { background-image:url(ContainerImages/wbNW-bg.png); }
+.C_White_Background_Red_Title .RoundedCorners .N { background-image:url(ContainerImages/wbN-bg.png); }
+.C_White_Background_Red_Title .RoundedCorners .NE { background-image:url(ContainerImages/wbNE-bg.png); padding:10px 30px 0px 30px;}
+.C_White_Background_Red_Title .RoundedCorners .W { background-image:url(ContainerImages/wbW-bg.png); }
+.C_White_Background_Red_Title .RoundedCorners .E { background-image:url(ContainerImages/wbE-bg.png); }
+.C_White_Background_Red_Title .RoundedCorners .SW { background-image:url(ContainerImages/wbSW-bg.png); }
+.C_White_Background_Red_Title .RoundedCorners .S { background-image:url(ContainerImages/wbS-bg.png); }
+.C_White_Background_Red_Title .RoundedCorners .SE { background-image:url(ContainerImages/wbSE-bg.png); }
+
+/*--- Formatting ---*/
+.C_White_Background_Red_Title h2, .C_White_Background_Red_Title .TitleText
+{
+	font-family:'Permanent Marker', Verdana, Arial, Helvetica, sans-serif;
+	font-size:25px;
+	color:#e50102;
+	margin:0px;
+}
+
+
+
